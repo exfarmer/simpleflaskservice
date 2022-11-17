@@ -10,7 +10,7 @@ Endpoints:
 /health
 /info
 /alta3
-/talkingparrot
+/talkingparrot 
    ?say=Hello%20Parrot (say=string)
    
 """
